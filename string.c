@@ -4,5 +4,7 @@
 int my_strlen(char *s)
 {
 	char *p=s;
+	not 123 
+
 	
 }
