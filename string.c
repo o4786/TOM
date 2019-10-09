@@ -4,5 +4,5 @@
 int my_strlen(char *s)
 {
 	char *p=s;
-	
+	123 = 456;
 }
